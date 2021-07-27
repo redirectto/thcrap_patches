@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/redirectto/Remove_text/"
   ],
-  "title": "Replaces all MSG files for almost empty ones (DDC-UM)"
+  "title": "Replaces all MSG files for almost empty ones (SA-UM)"
 }
