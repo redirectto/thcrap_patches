@@ -6,8 +6,8 @@
         "https://mirrors.thpatch.net/redirectto/"
     ],
     "patches": {
-		"Bossrush": "Boss Rush mode (DDC-UM) Save folder = Bossrush_redi",
-		"Bossonly": "Boss Rush mode without midbosses (DDC-UM) Save folder = Bossonly_redi",
+		"Bossrush": "Boss Rush mode (SA-UM) Save folder = Bossrush_redi",
+		"Bossonly": "Boss Rush mode without midbosses (SA-UM) Save folder = Bossonly_redi",
         "Full_battles": "Let you face every attack pattern regardless of the shottype or decision made (SA,DDC,HSiFS)",
         "No_text": "Replaces all MSG files for almost empty ones (SA-UM)"
     }

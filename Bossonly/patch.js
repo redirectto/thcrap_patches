@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/redirectto/Bossonly/"
   ],
-  "title": "Boss Rush mode without midbosses (DDC-UM) Save folder = Bossonly_redi"
+  "title": "Boss Rush mode without midbosses (SA-UM) Save folder = Bossonly_redi"
 }
