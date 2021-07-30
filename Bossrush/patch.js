@@ -7,5 +7,5 @@
   "servers": [
     "https://mirrors.thpatch.net/redirectto/Bossrush/"
   ],
-  "title": "Boss Rush mode (SA-UM) Save folder = Bossrush_redi"
+  "title": "Boss Rush mode (MoF-UM) Save folder = Bossrush_redi"
 }
